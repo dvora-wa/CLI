@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69d822fbac9396d8521dee2ecce51d8ba574b2b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("zip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
